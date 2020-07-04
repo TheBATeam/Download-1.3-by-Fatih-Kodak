@@ -1,0 +1,11 @@
+
+Download - Download a file from the web.
+
+Call:  download.exe [-h|-v] <url> {target}
+
+Options:
+          -h        Print this message
+          -v        Print version number
+
+by Fatih Kodak
+http://www.f2ko.de
